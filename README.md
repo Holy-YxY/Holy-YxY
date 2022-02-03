@@ -1,9 +1,6 @@
 ### Yx
 #### 我是Dark Engine与Epoch Engine的创建者。
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Holy-YxY)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bilibili.svg' alt='bilibili' height='40'>](https://space.bilibili.com/382114179?spm_id_from=333.1007.0.0)  
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Holy-YxY)](https://github.com/ryo-ma/github-profile-trophy)
