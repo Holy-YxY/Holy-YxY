@@ -1,7 +1,5 @@
 ### Yx
-#### 我是Dark Engine与Epoch Engine的创建者。
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+#### Dark Engine与Epoch Engine的作者。
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Holy-YxY)](https://github.com/ryo-ma/github-profile-trophy)
 
